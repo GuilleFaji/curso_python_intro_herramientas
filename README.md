@@ -42,21 +42,3 @@
 * [4.7](4_pandas/4_7_combinar_juntar.ipynb) Combinar, juntar y agrupar
 * [4.8](4_pandas/4_8_ejemplos_financieros.ipynb) Ejemplos financieros
     
-## Módulo 5: Tratamiento de series temporales
-* [5.1](5_series_temporales/5_1_time_structures.ipynb) Estructuras de tiempo nativas y de pandas
-* [5.2](5_series_temporales/5_2_indexación_rangos.ipynb) Indexación, selección y rangos
-* [5.3](5_series_temporales/5_3_offsets_shift.ipynb) Índices duplicados, offsets y desplazamiento
-* [5.4](5_series_temporales/5_4_resampling.ipynb) Remuestreo, donwsampling, OHLC
-* [5.5](5_series_temporales/5_5_ventanas_moviles.ipynb) Ventanas móviles
-
-## Módulo 6:  Visualización y tratamiento de datos
-* [6.1](6_visualizacion_y_tratamiento_de_datos\6_1_visualizacion_matplotlib.ipynb) Visualización Matplotlib
-* [6.2](6_visualizacion_y_tratamiento_de_datos\6_2_visualizacion_seaborn.ipynb) Visualización Seaborn
-* [6.3](6_visualizacion_y_tratamiento_de_datos\6_3_visualizacion_plotly.ipynb) Visualización Plotly
-* [6.4](6_visualizacion_y_tratamiento_de_datos\6_4_lectura_y_escritura.ipynb) Lectura y escritura de archivos
-* [6.5](6_visualizacion_y_tratamiento_de_datos\6_5_preparacion_y_limpieza.ipynb) Preparación y limpieza de datos
-
-## Módulo 7: Montecarlo y Optimización de carteras
-* [7.1](7_montecarlo/7_1_montecarlo.ipynb) Montecarlo: Problema de la moneda
-* [7.2](7_montecarlo\7_2_series_a_futuro.ipynb) Montecarlo: Simulación de series futuras
-* [7.3](7_montecarlo\7_3_montecarlo_carteras.ipynb) Montecarlo : Optimización de carteras 
